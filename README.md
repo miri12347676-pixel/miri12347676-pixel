@@ -14,24 +14,16 @@
 
 **Инструменты:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=Pinterest&logoColor=white)
 
-## 🚀 Мои проекты
-
-- **[Название проекта 1](ссылка)** - Краткое описание, что делает и какие технологии использовал.
-- **[Название проекта 2](ссылка)** - Еще одно краткое описание.
-- **[Название проекта 3](ссылка)** - И еще один крутой проект.
-
-## 📈 Статистика GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Ваш GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Как связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_username)
-[![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ваша_страница)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Killua99Zoldick)
 📧 **Email:** your.email@example.com
 
----
-⭐️ *Сгенерировано с помощью [awesome-readme](https://github.com/matiassingers/awesome-readme)*
+
